@@ -4,6 +4,13 @@
 
 💡 I’m passionate about uncovering insights from data and building intelligent systems that solve real-world problems. My interests include predictive modeling, computer vision, and neural networks, where I explore how AI can create impactful solutions.
 
+## 🔧 Tech Stack ##
+
+* Languages: Python, SQL
+* ML/DL: Scikit-learn, TensorFlow, Keras, CNN, LSTM, YOLO, Transformers
+* Data Tools: Pandas, NumPy, Matplotlib, Seaborn, Power BI
+* Platforms: GitHub, Streamlit, APIs, Vs Code
+
 ## 🚀 Projects ##
 **🤖 Deep Learning**
 
