@@ -63,11 +63,11 @@
 ## 🎓 Education ##
 
 * Bachelor of Commerce (B.Com)
-  Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
-  Aug 2022 – Jun 2025 | Chennai, India
+Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+Aug 2022 – Jun 2025 | Chennai, India
 
 * IIT-M Advanced Programming Professional & Master Data Science GUVI – IIT Madras
-  Nov 2024 – May 2025 | Chennai, India
+Nov 2024 – May 2025 | Chennai, India
 
 ## 📬 Contact Me ##
 
