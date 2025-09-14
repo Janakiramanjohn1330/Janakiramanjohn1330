@@ -42,7 +42,7 @@
 **🎾 Game Analytics: Unlocking Tennis Data with SportRadar API**
 
 * Description: Built an end-to-end sports analytics pipeline using the SportRadar API to collect, store, and analyze tennis competition data. Designed SQL schemas for competitions,         venues, and player rankings, and developed a Streamlit dashboard for interactive exploration.
-* Tech Used: Python, SQL (MySQL/PostgreSQL), SportRadar API, Streamlit
+* Tech Used: Python, SQL (MySQL), SportRadar API, Streamlit
 * Impact/Results: Enabled real-time event exploration, trend analysis, and performance insights for tennis tournaments. Delivered a user-friendly app for sports analysts and                organizations to make data-driven decisions.
 * Links: https://github.com/Janakiramanjohn1330/sport-radar-tennis-api
 
@@ -52,3 +52,20 @@
 * Tech Used: Python, Pandas, Matplotlib, Seaborn, Plotly, SQL, Streamlit/Power BI
 * Impact/Results: Identified biodiversity hotspots, seasonal activity trends, and conservation priorities. Built interactive dashboards for eco-tourism, wildlife conservation, and policy   support.
 * Links: https://github.com/Janakiramanjohn1330/Bird-species-forest-and-grassland
+
+## 🎓 Education ##
+
+* Bachelor of Commerce (B.Com)
+  Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
+  Aug 2022 – Jun 2025 | Chennai, India
+
+* IIT-M Advanced Programming Professional & Master Data Science
+  GUVI – IIT Madras
+  Nov 2024 – May 2025 | Chennai, India
+
+## 📬 Contact Me ##
+
+* 📧 Email: janakiramanjohn1330@gmail.com
+* 📞 Phone: +91 7871076186
+* 💼 LinkedIn: linkedin.com/in/janakiraman-r-8b2404371
+* 🐙 GitHub: https://github.com/Janakiramanjohn1330
