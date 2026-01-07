@@ -44,7 +44,7 @@
 * Impact/Results: Built a Streamlit app with classification, regression, and recommendation modules. Provided actionable insights for tourism boards and businesses to enhance visitor       satisfaction and retention.
 * Links: https://github.com/Janakiramanjohn1330/Tourism_Experience_Analytics
 
-**📊 Data Analytics & Engineering**
+**📊 Data Analytics**
 
 **🎾 Game Analytics: Unlocking Tennis Data with SportRadar API**
 
@@ -62,12 +62,15 @@
 
 ## 🎓 Education ##
 
-* Bachelor of Commerce (B.Com) 
+Bachelor of Commerce (B.Com) 
   Vel Tech Rangarajan Dr. Sagunthala R&D Institute of Science and Technology
   Aug 2022 – Jun 2025 | Chennai, India
 
+## Certification ##
 * IIT-M Advanced Programming Professional & Master Data Science GUVI – IIT Madras
   Nov 2024 – May 2025 | Chennai, India
+
+* Microsoft Power BI GUVI – IIT Madras
 
 ## 📬 Contact Me ##
 
